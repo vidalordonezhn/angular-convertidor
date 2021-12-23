@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('./assets/forest-g5ecc62d14_1920.jpg');
+    /* background-image: url('./assets/forest-g5ecc62d14_1920.jpg'); */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
